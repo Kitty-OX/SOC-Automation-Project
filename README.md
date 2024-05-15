@@ -53,9 +53,13 @@
 ---
 #### Explain the purpose:
 
-| Icon                   | Purpose                                                                                                            |
+|                    |                                                                                                             |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **Win-10 Wazuh Agent** | Send Events                                                                                                        |
 | **Wazuh Manager**      | Trigger alerts & Perform Response actions                                                                          |
 | **Shuffle**            | Receive Wazuh alerts & Send responsive actions, Enrich IOCS and send Email to **SOC Analyst** & Responsive actions |
 | **The-Hive**           | Create alert in case management                                                                                    |
+
+### References:
+- [Integrating Wazuh with Shuffle](https://wazuh.com/blog/integrating-wazuh-with-shuffle/?source=post_page-----983c54d7999c--------------------------------)
+- [Shuffle Automation](https://github.com/Shuffle/Shuffle?source=post_page-----983c54d7999c--------------------------------)
