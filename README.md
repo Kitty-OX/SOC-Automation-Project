@@ -8,6 +8,7 @@
 - Streamlines SOC workflows.
   
 ## Tools Used
+- Windows 10 Virtual Machine
 - Wazuh
 - Shuffle
 - The-Hive
