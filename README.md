@@ -33,3 +33,6 @@
 ## Steps
 #### 1. Draw Workflow using draw.io
 #### 2. Install Windows 10 Virtual Machine
+#### 3. Install Sysmon
+#### 4. Install Wazuh
+#### 5. Install The-Hive
