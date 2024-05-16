@@ -3,13 +3,15 @@
 ### "In this project, I will set up a Security Operations Center (SOC) automation project (home lab) with <a href="https://www.youtube.com/@MyDFIR">@MyDFIR</a>."
 
 ## Skills Learned
-- Explore how automation enhances incident response
-- Accelerates threat detection
-- Streamlines SOC workflows.
+- Hands-on experience setting up, configuring, and operating a Security Operations Center (SOC) in a simulated environment
+- Familiarity with open-source tools: Wazuh, Shuffle, and The Hive
+- Practice in Incident Response
+- Threat Intelligence Enrichment
   
 ## Tools Used
 - Windows 10 Virtual Machine
-- Wazuh
+- Wazuh Server
+- Wazuh Agent
 - Shuffle
 - The-Hive
 - draw.io
@@ -29,3 +31,5 @@
 >**It provides features such as incident case management, collaboration tools, alert aggregation and correlation, customizable investigation workflows, artifact management, and extensive integration capabilities.**
 
 ## Steps
+#### 1. Draw Workflow using draw.io
+#### 2. Install Windows 10 Virtual Machine
